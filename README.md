@@ -1,2 +1,4 @@
-# desktop-example-autoinstall
-An example autoinstall.yaml to demonstrate the new import feature of Ubuntu Desktop 24.04 LTS
+# ubuntu-autoinstall
+It's a fork from [Local-Optimum](https://github.com/local-optimum/desktop-example-autoinstall)
+
+I just used the example autoinstall.yaml and change it what i needed.
